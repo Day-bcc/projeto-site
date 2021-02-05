@@ -2,13 +2,17 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
+
+img.lado{
+    float: right;
+}
 body{
-    background-color: rgb(39, 5, 71);
+    background-color: rgb(235, 222, 247);
 }
 
 main{
-    background-color: white;
-    width: 500px;
+    background-color: rgb(4, 231, 91);
+    width: 800px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
